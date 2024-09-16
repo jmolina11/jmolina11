@@ -1,4 +1,4 @@
-## Sobre mi 👋
+# Sobre mi 👋
 Mi nombre es Jorge Molina Perez, soy de España y actualmente resido en Madrid.
 
 ## Estudios 
@@ -11,6 +11,9 @@ Actualmente estoy estudiando ASIR en la universidad U-tad, tambien tengo una lic
 | Instituto | Batchillerato | Ciclo |
 |---------------------|--------------|-------------|
 | Jose Garcia Nieto           | Jose Garcia Nieto         | U-tad       |
+
+##Hobbies
+
 
 
 
