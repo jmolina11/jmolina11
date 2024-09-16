@@ -12,7 +12,8 @@ Actualmente estoy estudiando ASIR en la universidad U-tad, tambien tengo una lic
 |---------------------|--------------|-------------|
 | Jose Garcia Nieto           | Jose Garcia Nieto         | U-tad       |
 
-##Hobbies
+## Hobbies
+En mi tiempo libre me gusta salir con mis amigos, tambien me encanta de vez en cuando jugar al futbol y ver a mi equipo favorito que es el Real Madrid, y por ultimo me gusta mucho tambien jugar a los videojouegos
 
 
 
