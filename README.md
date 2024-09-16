@@ -15,6 +15,7 @@ Actualmente estoy estudiando ASIR en la universidad U-tad, tambien tengo una lic
 ## Hobbies
 En mi tiempo libre me gusta salir con mis amigos, tambien me encanta de vez en cuando jugar al futbol y ver a mi equipo favorito que es el Real Madrid, y por ultimo me gusta mucho tambien jugar a los videojouegos
 
+![text if the image fails](https://img1.freepnges.com/20180704/fof/kisspng-real-madrid-c-f-uefa-champions-league-juventus-f-5b3cf3b0657114.4664062615307212004155.jpg)
 
 
 
